@@ -1,3 +1,5 @@
-html{
-  background: white;
+body{
+margin: 10px;
+  padding: 25px;
+  columns: 300px 2
 }

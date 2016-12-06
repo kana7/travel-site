@@ -1,5 +1,14 @@
+$black: #000;
+
 body{
 margin: 10px;
   padding: 25px;
-  columns: 300px 2
+  columns: 300px 2;
+  background-color: $black;
+  div.box{
+    color:   white;
+    a{
+      text-transform: uppercase;
+    }
+  }
 }

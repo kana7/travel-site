@@ -6,6 +6,9 @@
     &--gutters>div:not(:last-child) {
         padding-right: 65px;
     }
+    &__b-margin-util-medium{
+      margin-bottom: 1rem;
+    }
     @mixin atMedium {
         &__medium-4 {
             float: left;
@@ -20,6 +23,9 @@
             &--smaller{
               width: 63%;
             }
+        }
+        &__b-margin-util-medium{
+          margin-bottom: 0;
         }
     }
 }

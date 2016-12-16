@@ -6,5 +6,3 @@ john.greet();
 
 var jane = new Person("Jane Smith", "green");
 jane.greet();
-
-console.log('testing 123');

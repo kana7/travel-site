@@ -12,7 +12,6 @@
 node_modules/
 .tmp/
 temp/
-dist/
 
 # OS or Editor folders
 .DS_Store
